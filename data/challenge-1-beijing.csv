@@ -1,4 +1,4 @@
-Bus,Office,Hospital,Mall,Subway,School,Name,"ConstructionTime	",RoomType,Floor,"PricePerSqMeter	",Area
+Bus,Office,Hospital,Mall,Subway,School,Name,ConstructionTime,RoomType,Floor,PricePerSqMeter,Area
 18,18,10,0,2,49,远洋山水,2006,2室1厅,26,60937,96
 17,42,10,0,4,37,椿树园,1998,3室1厅,14,88686,130
 18,36,9,0,1,24,永乐小区,1989,3室1厅,18,46621,74
